@@ -1,0 +1,12 @@
+{
+    "name": "root/php-test",
+    "authors": [
+        {
+            "name": "mathews",
+            "email": "mathews.aj@titechnologies.org"
+        }
+    ],
+    "require": {
+        "pecee/simple-router": "4.2.0.5"
+    }
+}
