@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pecee/simple-router": "^3.7",
+        "vlucas/phpdotenv": "^2.5"
+    }
+}
